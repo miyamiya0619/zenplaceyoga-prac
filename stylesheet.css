@@ -1,0 +1,298 @@
+.inr{
+  width:592px;
+  margin:0 auto;
+}
+.page-header__inr{
+  vertical-align: center;
+}
+
+p{
+  display: inline-block;
+  margin:0 auto;
+}
+h3,h4{
+  margin:0 auto;
+}
+.page-header__txt{
+  background-color: #006faf;
+  color: white;
+  border-radius: 30px;
+}
+.page-header__txt h3{
+text-align: center;
+padding: 5px 10px;
+font-size: 15px
+}
+
+.page-header__logo img{
+  width:600px;
+  margin: 0 auto;
+}
+.main-visual__img{
+  height:500px;
+}
+.main-visual__tel{
+  text-align: center;
+  margin: 50px 100px;
+  padding: 10px 20px;
+  border: 1px solid #0070bc;
+  border-radius: 20px;
+}
+.main-visual__tel h3{
+  color:#0070bc;
+  margin: 0 auto;
+}
+.main-visual__tel a{
+  color:#0070bc;
+}
+.main-visual__rsv{
+  margin:20px 0;
+}
+.intro-section__nav{
+  font-size:13px;
+}
+.intro-section__nav p{
+  text-align: center;
+  margin-top:30px;
+}
+.intro-section__nav ul{
+  padding:20px 20px;
+  border: 1px solid #cecece;
+  line-height:25px;
+}
+li{
+  list-style-type: none;
+}
+
+.intro-section__aboutZenPlaceYoga{
+  text-align: center;
+  background-color: #eef1f3;
+  padding:10px 20px;
+}
+.aboutZenPlaceYoga__list{
+  text-align: center;
+  background-color: white;
+  line-height: 40px;
+  border-radius: 10px;
+}
+.aboutZenPlaceYoga__list ul{
+  padding:0;
+}
+.intro-section__temperSelect{
+  margin:15px 0;
+}
+.temperSelect__bottomlist li{
+  font-size:13px;
+}
+.intro-section-lesson h3{
+  text-align: center;
+}
+.intro-section-lesson h4{
+  text-align: center;
+}
+.intro-section-lesson p{
+  font-size: 13px;
+  text-align: left;
+  margin-top:10px;
+}
+.otherlesson1 , .otherlesson2{
+  display: flex;
+  justify-content: space-between;
+}
+.otherlesson-size{
+  width: 280px;
+}
+.Core-Control-Yoga{
+  width: 47%;
+}
+.HIIT-Yoga{
+  width: 47%;
+}
+.foot-Yoga{
+  width: 47%;
+}
+.KIDS-Yoga{
+  width: 47%;
+}
+.intro-section-lesssonNormal__inner p{
+  margin: 10px 20px;
+}
+.intro-section__Yogaworks{
+  background-color: #9fcbd1;
+  color: white;
+}
+.intro-section__ZenPlaceVoice h2{
+  text-align: center;
+}
+.intro-section__voiceboxDetail{
+  background-color: #ecf8ff;
+  border-radius: 4px;
+  padding:30px 20px;
+  margin-bottom:10px;
+}
+.voicebox__header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.voicebox__txt{
+  border-top: 1px solid #688B3E;
+  height: 0;
+  opacity: 0;
+  visibility: hidden;
+}
+.voicebox__headertxt{
+  width: 300px;
+  position: relative;
+  right:100px;
+}
+.voicebox__headertxt h2{
+  font-size: 20px;
+}
+.voicebox__headerimg img{
+  width: 100px;
+}
+.voicebox__messageread{
+  text-align: center;
+}
+.voicebox__footer{
+  float: right;
+  height: 0;
+  opacity: 0;
+  visibility: hidden;
+}
+.voicebox__footer p{
+  font-size:12px;
+}
+
+.intro-section__youtube{
+  margin:30px 0;
+}
+.contact-detail__inr{
+  background-color: #eef1f3;
+}
+.contact-detail-content1{
+  background-color: white;
+  margin:10px;
+  padding: 10px;
+}
+.contact-detail-content1 h1{
+  font-size: 25px;
+}
+.contact-detail-content1btn{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.contact-detail-content1btn img{
+  width: 250px;
+}
+.contact-detail-content2{
+  background-color: white;
+  margin: 10px;
+  padding:10px;
+}
+.contact-detail-headertxt{
+  text-align:center;
+}
+.contact-detail-headertxt p{
+  padding-top:10px;
+}
+.contact-detail-content2inr{
+  text-align: center;
+  margin: 20px;
+}
+.contact-detail-content2inr h3{
+  color:white;
+  background-color:#ab9870;
+  display: inline-block;
+  text-align: center;
+  padding: 10px 15px;
+  font-size: 15px;
+}
+.contact-detail_backcolor{
+  background-color:#ab9870;
+  text-align: center;
+}
+.contact-detail-content2txt ul{
+  padding: 0;
+}
+.contact-detail-content2txt h2{
+  text-align: center;
+}
+.context2-flow{
+  display: flex;
+  vertical-align: top;
+  margin:70px 20px;
+}
+.context2-flow > *{
+  width: 50%;
+}
+.context2-flow-right{
+  text-align: center;
+}
+.studio__txt h3{
+  text-align: center;
+  margin:20px 0;
+}
+.studio__txt p{
+  font-size: 16px;
+  margin-bottom:20px;
+}
+.studio__area h3{
+  text-align:center;
+  margin-bottom: 20px;
+}
+.studio__areaDetail{
+  display: flex;
+  vertical-align:top;
+  justify-content: space-between;
+  padding: 15px 8px;
+}
+.studio__areatxt p{
+  font-size:12px;
+}
+.studio__areatxt h4{
+  margin-bottom:20px;
+}
+.studio__areabtn li{
+  display: inline-block;
+  width: 40px;
+  text-align: center;
+  font-size: 10px;
+}
+.studio__areabtn ul{
+  margin:auto 0;
+}
+.studio__areabtn a{
+  text-decoration: none;
+}
+.studio__areabtn-map{
+  background-color: #78b3d6;
+}
+.studio__areabtn-price{
+  background-color: #78b3d6;
+}
+.studio__areabtn-rsv{
+  background-color: #007ec8;
+}
+.studio__areabtn-com{
+  padding:7px 7px;
+  border-radius: 5px;
+}
+.studio__areabtn-com a{
+  color: #fff;
+}
+.studio__areaDetail-backcolor{
+  background-color: #f5f5f5;
+}
+.page-footer{
+  text-align: center;
+}
+.page-footer__txt p{
+  font-size: 10px;
+  margin-bottom:10px;
+}
+.page-footer__logo img{
+  width:150px;
+}
